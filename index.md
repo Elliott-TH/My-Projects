@@ -1,7 +1,7 @@
 ---
 title: Elliott's Portfolio
 ---
-# Elliott's Portfolio
+
 - List Item
 - List Item
 - List Item
