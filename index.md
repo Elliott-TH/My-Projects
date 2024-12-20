@@ -5,8 +5,8 @@ title: Elliott's Portfolio
 - List Item
 - List Item
 - List Item
-  *Indent?
-  *indent?
+  * Indent?
+  * indent?
 
 Table| A | B | C 
 ---|---|---|---
