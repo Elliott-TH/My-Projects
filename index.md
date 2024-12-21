@@ -1,16 +1,4 @@
 ---
 title: Elliott's Portfolio
 ---
-
-- List Item
-- List Item
-- List Item
-  * Indent?
-  * indent?
-
-Table| A | B | C 
----|---|---|---
-1 | ... | ... | ...
-2 | ... | ... | ...
-3 | ... | ... | ...
-
+#This Site is deticated to documenting my progress on my Fusor Project and its extensions
