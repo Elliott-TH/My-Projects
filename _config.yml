@@ -4,10 +4,10 @@ author: Elliott Hirko
 description: Here is a site I am deticating to my projects for the purpose of display as well as providing useful documentation to others performing similar work.
 defaults:
   - scope:
-      path: "_posts/Fusor"
+      path: "/Fusor/_posts"
     values:
       type: "Fusor"
   - scope:
-      path: "_posts/Chemistry"
+      path: "/Misc/_posts"
     values:
       type: "Chemistry"
