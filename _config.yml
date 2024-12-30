@@ -2,12 +2,3 @@ theme: minima
 title: Fusor Projects
 author: Elliott Hirko
 description: Here is a site I am deticating to my projects for the purpose of display as well as providing useful documentation to others performing similar work.
-defaults:
-  - scope:
-      path: "/Fusor/_posts"
-    values:
-      type: "Fusor"
-  - scope:
-      path: "/Misc/_posts"
-    values:
-      type: "Chemistry"
